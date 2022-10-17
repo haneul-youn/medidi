@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.135" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/icon_arrow_back.xml" value="0.196" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/icon_calendar.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/icon_chart.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/icon_list.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/icon_setting.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/icon_star.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-v24/star.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-xxhdpi/bg_radius_bottomnav.xml" value="0.1945" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable-xxhdpi/menu_click_color.xml" value="0.1195" />
+        <entry key="..\:/Android/medicare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.135" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/activity_intro.xml" value="0.21302083333333333" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/activity_main.xml" value="0.16197916666666667" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/activity_main_menu.xml" value="0.1890625" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/activity_medi_add.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/activity_medi_calendar.xml" value="0.18385416666666668" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/fragment_main_menu_medi_add.xml" value="0.1" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/fragment_main_menu_medi_bookmark.xml" value="0.24974358974358973" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/fragment_main_menu_medi_calendar.xml" value="0.2" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/fragment_main_menu_medi_chart.xml" value="0.24974358974358973" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/fragment_main_menu_setting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/fragment_medi_graph.xml" value="0.2" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/intro_activity.xml" value="0.1203125" />
+        <entry key="..\:/Android/medicare/app/src/main/res/layout/join.xml" value="0.16197916666666667" />
+        <entry key="..\:/Android/medicare/app/src/main/res/menu/actionbar_menu.xml" value="0.2" />
+        <entry key="..\:/Android/medicare/app/src/main/res/menu/bottom_navigation_menu_driver.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.40851449275362317" />
+        <entry key="app/src/main/res/layout/activity_main_menu.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_medi_add.xml" value="0.2522994995117188" />
+        <entry key="app/src/main/res/layout/activity_medi_calendar.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_medi_add.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_medi_bookmark.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_medi_calendar.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_medi_chart.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_setting.xml" value="0.37157592773437503" />
+        <entry key="app/src/main/res/layout/join.xml" value="0.3473052978515625" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.36041666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
