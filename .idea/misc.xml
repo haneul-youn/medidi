@@ -35,7 +35,7 @@
         <entry key="app/src/main/res/drawable-v24/icon_setting.xml" value="0.305" />
         <entry key="app/src/main/res/drawable-v24/icon_star.xml" value="0.305" />
         <entry key="app/src/main/res/drawable-xxhdpi/bg_radius_bottomnav.xml" value="0.305" />
-        <entry key="app/src/main/res/drawable-xxhdpi/menu_click_color.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-xxhdpi/menu_click_color.xml" value="0.14419403076171877" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.305" />
         <entry key="app/src/main/res/layout/activity_intro.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.40851449275362317" />
