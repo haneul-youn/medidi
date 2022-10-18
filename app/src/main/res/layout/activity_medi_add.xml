@@ -147,7 +147,7 @@
             android:layout_width="35dp"
             android:layout_height="30dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/icon_arrow_back"
+            android:src="@drawable/logo_main"
             tools:layout_editor_absolutX="20dp"
             tools:layout_editor_absoluteY="8dp"/>
 
@@ -192,7 +192,7 @@
         tools:layout_editor_absoluteY="339dp" />
 
     <CheckBox
-        android:id="@+id/checkBox2"
+        android:id="@+id/checkTue"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="화"
@@ -202,7 +202,7 @@
         tools:layout_editor_absoluteY="253dp" />
 
     <CheckBox
-        android:id="@+id/checkBox7"
+        android:id="@+id/checkSun"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="일"
@@ -212,7 +212,7 @@
         tools:layout_editor_absoluteY="253dp" />
 
     <CheckBox
-        android:id="@+id/checkBox4"
+        android:id="@+id/checkThu"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="목"
@@ -222,7 +222,7 @@
         tools:layout_editor_absoluteY="253dp" />
 
     <CheckBox
-        android:id="@+id/checkBox5"
+        android:id="@+id/checkFri"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="금"
@@ -232,7 +232,7 @@
         tools:layout_editor_absoluteY="253dp" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/checkMon"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="월"
@@ -242,7 +242,7 @@
         tools:layout_editor_absoluteY="253dp" />
 
     <CheckBox
-        android:id="@+id/checkBox6"
+        android:id="@+id/checkSat"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="토"
@@ -252,7 +252,7 @@
         tools:layout_editor_absoluteY="253dp" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
+        android:id="@+id/checkWed"
         android:layout_width="50dp"
         android:layout_height="44dp"
         android:text="수"

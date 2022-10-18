@@ -29,17 +29,26 @@
         <entry key="..\:/Android/medicare/app/src/main/res/layout/join.xml" value="0.16197916666666667" />
         <entry key="..\:/Android/medicare/app/src/main/res/menu/actionbar_menu.xml" value="0.2" />
         <entry key="..\:/Android/medicare/app/src/main/res/menu/bottom_navigation_menu_driver.xml" value="0.1953125" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-v24/icon_calendar.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-v24/icon_chart.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-v24/icon_setting.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-v24/icon_star.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-xxhdpi/bg_radius_bottomnav.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable-xxhdpi/menu_click_color.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.305" />
         <entry key="app/src/main/res/layout/activity_intro.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.40851449275362317" />
         <entry key="app/src/main/res/layout/activity_main_menu.xml" value="0.36041666666666666" />
-        <entry key="app/src/main/res/layout/activity_medi_add.xml" value="0.2522994995117188" />
+        <entry key="app/src/main/res/layout/activity_medi_add.xml" value="0.30278778076171886" />
         <entry key="app/src/main/res/layout/activity_medi_calendar.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/layout/activity_setting_ask.xml" value="0.22554931640625" />
         <entry key="app/src/main/res/layout/fragment_main_menu_medi_add.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_medi_add111.xml" value="0.3015625" />
         <entry key="app/src/main/res/layout/fragment_main_menu_medi_bookmark.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/layout/fragment_main_menu_medi_calendar.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/layout/fragment_main_menu_medi_chart.xml" value="0.36041666666666666" />
-        <entry key="app/src/main/res/layout/fragment_main_menu_setting.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_main_menu_setting.xml" value="0.25" />
         <entry key="app/src/main/res/layout/join.xml" value="0.3473052978515625" />
         <entry key="app/src/main/res/layout/login.xml" value="0.36041666666666666" />
       </map>
